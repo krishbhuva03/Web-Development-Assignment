@@ -313,27 +313,6 @@ The formula ensures smooth, proportional transitions between known values.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-- 🐛 Report bugs
-- 💡 Suggest features
-- 📖 Improve documentation
-- ⚡ Optimize performance
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🌟 Show Your Support
-
-If you found this helpful, please give it a ⭐️!
-
----
 
 <div align="center">
 
