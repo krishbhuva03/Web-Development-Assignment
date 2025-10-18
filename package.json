@@ -1,0 +1,31 @@
+{
+  "name": "date-aggregation-solution",
+  "version": "1.0.0",
+  "description": "A solution for aggregating date-based data by day of the week with interpolation for missing days",
+  "main": "dateAggregator.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "date",
+    "aggregation",
+    "interpolation",
+    "day-of-week",
+    "algorithm"
+  ],
+  "author": "Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "*.js",
+      "!*.test.js"
+    ]
+  }
+}
